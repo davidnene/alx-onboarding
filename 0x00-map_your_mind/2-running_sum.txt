@@ -1,0 +1,15 @@
+Algorithm
+A user will enter numbers that will be added to the sum and when a negative number 
+is encountered, stop adding numbers and write out the final result
+
+Define a function [positivesum] that accepts +ve int inputs and returns sum of the inputs
+             n = []
+             for i in n:
+                if i >= 0:
+                  continue
+                #Once a -ve int is added the fn breaks and executes current summation
+                else:
+                  break
+
+call positive sum and pass a list of numbers
+
