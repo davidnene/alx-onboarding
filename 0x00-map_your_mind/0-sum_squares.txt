@@ -1,0 +1,10 @@
+Algorithm
+Calculate the sum of squares of given input of numbers
+
+Define a function [squares] with two inputs (x,y)
+       z = x^2 + y^2
+return z
+
+Call squares and pass in two integers
+
+
