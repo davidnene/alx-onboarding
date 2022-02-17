@@ -1,0 +1,12 @@
+Algorithm
+reads in three numbers and writes them all in sorted order
+Define a function [sorting] with three inputs (x,y,z)
+       #create a list
+       myvalues = [x,y,z]
+       #run a sorting function
+       sortvalues = myvalues.sort_values(ascending=True)
+return sortvalues
+
+Call sorting and pass in three integers
+
+
